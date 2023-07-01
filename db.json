@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "name": "aman",
+      "email": "aman@gmail.com",
+      "mobile": "123445",
+      "id": 1
+    },
+    {
+      "name": "rahu",
+      "email": "rahul@gmail.com",
+      "mobile": "9849584958",
+      "id": 2
+    },
+    {
+      "name": "rahul",
+      "email": "rahul@gmail.com",
+      "mobile": "9849584958",
+      "id": 3
+    }
+  ]
+}
